@@ -1,4 +1,4 @@
-<h1>Hi i´m stukz!</h1>
+<h1>Hi i´m Flávio!</h1>
 <p>
 - 👀 I’m interested in Games, basketball, codes<br>
 - 🌱 I’m currently learning Javascript and Python<br>
